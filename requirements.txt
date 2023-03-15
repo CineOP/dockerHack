@@ -1,0 +1,9 @@
+matplotlib
+pandas
+numpy
+beautifulsoup4
+streamlit
+requests
+lxml
+torch
+torchvision
