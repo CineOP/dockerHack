@@ -18,7 +18,7 @@ To run this project, you will need to have the following installed on your machi
 
 ## Usage
 
-To start the Streamlit application, navigate to the project directory and run `streamlit run app.py` on your terminal. This will open up a web browser where you can interact with the application.
+To start the Streamlit application, navigate to the project directory and run `streamlit run front.py` on your terminal. This will open up a web browser where you can interact with the application.
 
 ### User Interface
 
